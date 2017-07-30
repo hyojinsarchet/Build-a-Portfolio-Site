@@ -1,0 +1,41 @@
+body {
+  font-family: 'Lato', sans-serif;
+  color: #2d3c49;
+  font-weight: 300;
+}
+
+.text-muted {
+  color: #BCBBBB;
+}
+
+hr {
+  color: #7d97ad;
+  border-width: 5px;
+  margin: 0 0 20px 0;
+}
+
+.logo {
+  width: 120px;
+  height: 120px;
+  margin: 50px 0 0 0;
+}
+
+.headname {
+  float: right;
+  text-transform: uppercase;
+  text-align: right;
+  margin: 20px 0 0 0;
+}
+
+h1 {
+  font-size: 4em;
+  font-weight: 100;
+}
+
+.main_img {
+  margin-bottom: 30px;
+}
+
+.smallimgtitle, p {
+  text-align: center;
+}
